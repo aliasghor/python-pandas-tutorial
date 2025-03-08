@@ -1,2 +1,2 @@
-# python-pandas-tutorial
-This repository contains my Python Pandas tutorial across trusted sources.
+# Hi! Welcome to my from-indonesia-belajar branch
+This branch will focus my Python Pandas tutorial from [Indonesia Belajar](https://www.youtube.com/@belajaridn).
